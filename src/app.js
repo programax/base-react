@@ -1,6 +1,6 @@
-import { makeStyles } from '@material-ui/core/styles';
-import { Button, Typography } from '@material-ui/core';
-import AccessAlarmIcon from '@material-ui/icons/AccessAlarm';
+import { makeStyles } from '@mui/styles';
+import { Button, Typography } from '@mui/material';
+import AccessAlarmIcon from '@mui/icons-material/AccessAlarm';
 
 const useStyles = makeStyles({
   foo: {
